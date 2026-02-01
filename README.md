@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently (probably) ricing hyprland, unfortunately.<br>🌱 I’m currently learning multithreading, parallelism, and concurrency.<br>
+🌱 I’m currently learning multithreading, parallelism, and concurrency.<br>
 
 
 ## 🌐 Socials:
