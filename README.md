@@ -8,7 +8,7 @@
 - Speaks English and Japanese 🇨🇦🇯🇵
 
 **Right now, I'm ...**
-- 🧑‍💻 Working: SWE Intern @ Critical Environment Technologies, building backend infrastructure
+- 🧑‍💻 Working: SWE Intern @ Critical Environment Technologies, developing backend infrastructure
 - 🏗️ Building: a CLI application to send files over a local network, utilizing multithreading in Go
 - 📺 Watching/Reading: Ikoku Nikki, Wistoria, Munou na Nana
 
