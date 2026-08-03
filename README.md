@@ -14,7 +14,7 @@
 
 **Technical Skills** 💻
 - Languages: `Python, Go, C, C++, Java, PostgreSQL, Assembly (RISC-V, ARM), SystemVerilog, TypeScript/JavaScript`
-- Cloud & DevOps: `AWS, Docker, CI/CD Pipelines`
+- Cloud & DevOps: `AWS, Docker, CI/CD Pipelines (GitHub Actions)`
 - Tools: `Git, Linux/UNIX, Bash, Vim, Node.js`
 
 **Contact** 📬
