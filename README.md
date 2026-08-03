@@ -2,7 +2,7 @@
 
 
 **About Me 💬**
-- Arch Linux user (loser) 🧌
+- Arch Linux + vim user (loser) 🧌
 - Top 1% in LinkedIn Tango game ☀️🌙
 - Pool/8-ball enjoyer 🎱
 - Speaks English and Japanese 🇨🇦🇯🇵
