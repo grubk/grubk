@@ -5,7 +5,7 @@
 - Arch Linux + vim user (loser) 🧌
 - Top 1% in LinkedIn Tango game ☀️🌙
 - Pool/8-ball enjoyer 🎱
-- Speaks English and Japanese 🇨🇦🇯🇵
+- Speaks English and Japanese 🗣️
 
 **Right now, I'm ✍️**
 - 🧑‍💻 Working: SWE Intern @ Critical Environment Technologies, developing backend infrastructure
